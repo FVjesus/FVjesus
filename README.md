@@ -64,7 +64,7 @@
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=FVjesus&show_icons=true&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=FVjesus&show_icons=true&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" align="center" style="width: 100%" />
 </table>  
 
 <br/>  
