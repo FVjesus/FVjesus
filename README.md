@@ -67,6 +67,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FVjesus&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FVjesus&theme=tokyonight" />
 </p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=FVjesus&&style=flat-square" align="center" />
+</div> 
   
 
 <br/>  
