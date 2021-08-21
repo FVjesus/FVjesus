@@ -62,9 +62,7 @@
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=FVjesus&show_icons=true&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" align="center" style="width: 100%" />
-<br/>  
+## Github Stats   
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FVjesus&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FVjesus&theme=tokyonight" />
