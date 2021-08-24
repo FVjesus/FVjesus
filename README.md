@@ -7,33 +7,17 @@
 <a href="https://linkedin.com/in/fabricio-veloso-23aa92198" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
 
 
 ### Glad to see you here!  
-  
-  
 
-<br/>  
-
-
-## About Me:
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m Software Engineer intern on [Congenial](https://congenial.com.br/)  
   
-
 - 🎓 I'm a computer engineering student at [UFRB](https://ufrb.edu.br/portal/)  
 
 
-</td></tr></table>  
-
-<br/>  
-
-
-
-## Languages and Tools  
+## My main Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
