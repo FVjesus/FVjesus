@@ -15,7 +15,7 @@
 ### Glad to see you here!  
 
 
-- 🔭 I’m Software Engineer intern on [Congenial](https://congenial.com.br/)  
+- 🔭 I’m Software Engineer on [Congenial](https://congenial.com.br/)  
   
 - 🎓 I'm a computer engineering student at [UFRB](https://ufrb.edu.br/portal/)  
 
