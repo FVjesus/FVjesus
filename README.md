@@ -15,7 +15,7 @@
 ### Glad to see you here!  
  
   
-- 🎓 I'm a computer engineering student at [UFRB](https://ufrb.edu.br/portal/)  
+- 🎓 I'm a computer engineering at [UFRB](https://ufrb.edu.br/portal/)  
 
 
 ## My main Languages and Tools  
